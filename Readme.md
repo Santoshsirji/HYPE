@@ -51,9 +51,12 @@ On this page, users can:
 
 ---
 
-## 🌗 Extra Features
+##  Extra Features
 
 * You can **toggle between Light Mode and Dark Mode** for better comfort depending on your environment.
+* You can **search** music files using the search input bar in the navigation bar as well. 
+* You can **see the number of music files** available in your computer in the badge icon in the navbar. 
+
 
 ---
 
